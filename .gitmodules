@@ -4,3 +4,6 @@
 [submodule "gallon_backend"]
 	path = gallon_backend
 	url = git@github.com:lapillaga/gallon_backend.git
+[submodule "gallon-traefik"]
+	path = gallon-traefik
+	url = git@github.com:lapillaga/gallon-traefik.git
