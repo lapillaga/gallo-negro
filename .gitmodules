@@ -1,0 +1,6 @@
+[submodule "gallon-admin"]
+	path = gallon-admin
+	url = git@github.com:lapillaga/gallon-admin.git
+[submodule "gallon_backend"]
+	path = gallon_backend
+	url = git@github.com:lapillaga/gallon_backend.git
